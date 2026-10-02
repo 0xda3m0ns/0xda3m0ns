@@ -43,6 +43,9 @@
   
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Nvim-000?&style=for-the-badge&logo=neovim&logoColor=green" />
 </p>
 
 ---
