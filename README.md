@@ -5,31 +5,35 @@
 
 <h1 align="center">Hey, I'm da3m0ns.</h1>
 
-<p align="center">
-  <i>Curious about how things work, and even more curious about how they break.</i>
-</p>
+<h3 align="center">
+  Curious about how things work, and even more curious about how they break.
+</h3>
 
 ---
 
-### About Me
+## About Me
 
-I like figuring out what happens beneath the surface of software, especially when things don't behave the way they're supposed to.
+### I like figuring out what happens beneath the surface of software.
+
+Especially when things don't behave the way they're supposed to.
 
 Most of my curiosity revolves around **binary exploitation, reverse engineering, and low-level systems**. I'm interested in how programs interact with memory, how vulnerabilities emerge from seemingly small mistakes, and what it takes to understand a system beyond its abstractions.
 
 I spend a fair amount of time in debuggers, reading disassembly, solving CTF challenges, and experimenting with Linux. Sometimes I break things on purpose. Other times, the bugs are kind enough to find me first.
 
-I'm not particularly interested in collecting tools or buzzwords. I'd rather understand *why* something works, *how* it breaks, and what I can learn from pulling it apart.
+### Understanding things matters more to me than collecting tools.
+
+I'd rather understand *why* something works, *how* it breaks, and what I can learn from pulling it apart.
 
 When I'm away from the terminal, I'm usually reading, watching films, listening to music, or following whatever rabbit hole catches my attention.
 
-Still learning. Still breaking things. Still curious.
+**Still learning. Still breaking things. Still curious.**
 
-> Deep Dive Into Uncertainty
+> **Deep Dive Into Uncertainty**
 
 ---
 
-### Things I Work With
+## Things I Work With
 
 <p align="center">
 
@@ -67,8 +71,9 @@ Still learning. Still breaking things. Still curious.
 ---
 
 <p align="center">
-  <sub>Made with curiosity, caffeine, and occasional segmentation faults.</sub>
-  <br>
-  <sub>💙 da3m0ns</sub>
+  <strong>Made with curiosity, caffeine, and occasional segmentation faults.</strong>
 </p>
-```
+
+<p align="center">
+  💙 da3m0ns
+</p>
