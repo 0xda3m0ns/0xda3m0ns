@@ -1,79 +1,69 @@
-<!-- Header -->
-<p align="center">
-  <img src="assets/chill_mario_by_pixeljeff_ddjk36s.gif" alt="Chill Mario" />
-</p>
-
 <h1 align="center">Hey, I'm da3m0ns.</h1>
 
-<h3 align="center">
-  Curious about how things work, and even more curious about how they break.
-</h3>
+<p align="center">
+  <em>Curious about how things work, and even more curious about how they break.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xda3m0ns?tab=repositories">Projects</a> ·
+  <a href="https://github.com/0xda3m0ns/ctf-writeups">CTF Writeups</a>
+</p>
 
 ---
 
-## About Me
+### About Me
 
-### I like figuring out what happens beneath the surface of software.
+I've always been more interested in understanding how things work than simply knowing how to use them.
 
-Especially when things don't behave the way they're supposed to.
+That curiosity eventually led me to **low-level systems, reverse engineering, and binary exploitation**, where even the smallest details can reveal something interesting about how software behaves.
 
-Most of my curiosity revolves around **binary exploitation, reverse engineering, and low-level systems**. I'm interested in how programs interact with memory, how vulnerabilities emerge from seemingly small mistakes, and what it takes to understand a system beyond its abstractions.
+I spend a lot of time reading disassembly, stepping through programs in debuggers, solving CTF challenges, and exploring Linux.
 
-I spend a fair amount of time in debuggers, reading disassembly, solving CTF challenges, and experimenting with Linux. Sometimes I break things on purpose. Other times, the bugs are kind enough to find me first.
+I'm less interested in collecting tools and buzzwords than in understanding **why something works, how it breaks, and what happens in between**. Sometimes I break things on purpose. Other times, the bugs find me first.
 
-### Understanding things matters more to me than collecting tools.
-
-I'd rather understand *why* something works, *how* it breaks, and what I can learn from pulling it apart.
-
-When I'm away from the terminal, I'm usually reading, watching films, listening to music, or following whatever rabbit hole catches my attention.
+Away from the terminal, I'm usually reading, watching films, listening to music, or following a completely unrelated rabbit hole.
 
 **Still learning. Still breaking things. Still curious.**
 
-> **Deep Dive Into Uncertainty**
+### What I'm Exploring 🔍
 
----
+- **Binary exploitation:** memory corruption, program behavior, and exploit development
+- **Reverse engineering:** disassembly, debugging, and understanding binaries from the inside out
+- **Systems & Linux:** operating systems, low-level internals, and the occasional experiment that goes sideways
 
-## Things I Work With
+### Things I Work With
 
-<p align="center">
+**Languages & systems**
 
-  <!-- Systems & Languages -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-333333?style=flat-square)
 
-  <!-- Binary Exploitation & Reverse Engineering -->
-  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge" />
+**Security & debugging**
 
-  <!-- Security -->
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+![GDB](https://img.shields.io/badge/GDB-333333?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-333333?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-  <!-- Development -->
-  <img src="https://img.shields.io/badge/-Nvim-000?style=for-the-badge&logo=neovim&logoColor=green" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Development & infrastructure**
 
-  <!-- Infrastructure -->
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-  <!-- Hardware & Automation -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
-
-</p>
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
 <p align="center">
-  <strong>Made with curiosity, caffeine, and occasional segmentation faults.</strong>
-</p>
-
-<p align="center">
-  💙 da3m0ns
+  <em>Deep Dive Into Uncertainty.</em>
+  <br />
+  <sub>Made with curiosity and occasional segmentation faults. · 💙 da3m0ns</sub>
 </p>
