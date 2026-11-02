@@ -61,9 +61,6 @@ Away from the terminal, I'm usually reading, watching films, listening to music,
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-
 <p align="center">
-  <em>Deep Dive Into Uncertainty.</em>
-  <br />
-  <sub>Made with curiosity and occasional segmentation faults. · 💙 da3m0ns</sub>
+  <em>Deep Dive Into Uncertainty</em>
 </p>
