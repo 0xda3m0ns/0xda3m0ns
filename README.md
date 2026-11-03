@@ -30,6 +30,14 @@ Away from the terminal, I'm usually reading, watching films, listening to music,
 - **Binary exploitation:** memory corruption, program behavior, and exploit development
 - **Reverse engineering:** disassembly, debugging, and understanding binaries from the inside out
 - **Systems & Linux:** operating systems, low-level internals, and the occasional experiment that goes sideways
+---
+
+### hacker
+*/ˈhækər/* · *noun, Computing*
+
+A person driven by curiosity to understand, explore, and challenge computer systems, often by discovering vulnerabilities, overcoming limitations, or finding unconventional solutions.
+
+---
 
 ### Things I Work With
 
